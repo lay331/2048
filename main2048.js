@@ -200,11 +200,11 @@ $(document).keydown(function(event){
     }
 });
 
-document.addEventListener('touchmove',function(event){
+/* document.addEventListener('touchmove',function(event){
 
     event.preventDefault();
 
-});
+}); */
 
 document.addEventListener('touchstart',function(event){
 
